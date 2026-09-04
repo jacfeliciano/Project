@@ -1,9 +1,5 @@
 # Activity 1 — Presentation Design Principles
 
-## 🖼️ Activity Output
-
-<img width="472" height="671" alt="image" src="https://github.com/user-attachments/assets/aabe3574-b286-4c71-833d-0242712299c1" />
-
 📌 Overview
 
 Activity 1 focused on applying basic presentation and graphic design principles to create a promotional coffee poster. The goal was to organize the information in a way that was visually appealing while making the important details easy for the audience to notice and understand.
