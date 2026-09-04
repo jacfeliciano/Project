@@ -2,8 +2,6 @@
 
 <img width="671" height="671" alt="image" src="https://github.com/user-attachments/assets/f1405096-0fd6-48a5-9aac-3c719d1dbd86" />
 
-<img width="668" height="672" alt="image" src="https://github.com/user-attachments/assets/1b6e79a3-5ece-4725-a3e2-1587b7d8ad75" />
-
 ## 📌 Overview
 
 Activity 2 focused on developing the color palette and typography system
