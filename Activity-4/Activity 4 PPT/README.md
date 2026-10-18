@@ -2,9 +2,9 @@
 
 # ɢᴏᴏɢʟᴇ ᴍᴇᴇᴛ ᴀɴᴅ ɢᴏᴏɢʟᴇ ꜰᴏʀᴍꜱ
 
-<img src="../assets/overview.png" width="800" alt="Overview">
+<img src="../assets/**overview.png**" width="800" alt="Overview">
 
-<img src="../assets/gmeet-gforms.png" width="300" alt="Google Meet and Google Forms">
+<img src="../assets/**gmeet-gforms.png**" width="300" alt="Google Meet and Google Forms">
 
 </div>
 
@@ -65,7 +65,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 ## Reflection
 
 <p align="justify">
-<i>Through this activity, I learned how Google Meet and Google Forms can make communication, collaboration, and information gathering more efficient. Google Meet helps people connect virtually, while Google Forms makes it easier to create quizzes, collect feedback, and organize responses.</i>
+<i>This activity helped me understand the importance of digital tools in making tasks easier and more organized. Google Meet allows individuals to discuss ideas and work together even when they are in different locations, while Google Forms simplifies the process of creating assessments, gathering information, and reviewing submitted answers. These tools are useful for improving productivity in both academic and professional settings.</i>
 </p>
 
 <p align="justify">
