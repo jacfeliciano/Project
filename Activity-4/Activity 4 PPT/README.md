@@ -2,9 +2,9 @@
 
 # ɢᴏᴏɢʟᴇ ᴍᴇᴇᴛ ᴀɴᴅ ɢᴏᴏɢʟᴇ ꜰᴏʀᴍꜱ
 
-<img src="../assets/**overview.png**" width="800" alt="Overview">
+<img src="../assets/overview.png" width="800" alt="Overview">
 
-<img src="../assets/**gmeet-gforms.png**" width="300" alt="Google Meet and Google Forms">
+<img src="../assets/gmeet-gforms.png" width="300" alt="Google Meet and Google Forms">
 
 </div>
 
@@ -48,9 +48,23 @@ This activity explores the purpose, features, and practical applications of <b>G
 
 <img src="../assets/more.png" width="800" alt="More information">
 
-## 📄 Presentation
+<br><br>
 
-<a href="Activity%204%20PPT/GROUP-4-FORMS%20AND%20MEET%20PPT.pdf">View Google Meet &amp; Forms PPT →</a>
+<a href="file:///C:/Users/Joseph%20Anthony/Pictures/GROUP-4-FORMS-AND-MEET-PPT.pdf">
+📄 View Google Meet &amp; Forms PPT →
+</a>
+
+<br><br>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfperDHgiW2recV86enfxMl6Lav0aZCxHtS3fycjsJGuVEPvw/viewform?usp=sharing&amp;ouid=118413879498339873868">
+📝 View Google Forms Quiz →
+</a>
+
+<br><br>
+
+<a href="Activity%204%20Outputs/GE-4120_G4_Quiz.pdf">
+📊 View Classmates' Quiz Scores →
+</a>
 
 <br><br>
 
