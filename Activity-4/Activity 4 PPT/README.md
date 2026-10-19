@@ -50,7 +50,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 
 <br><br>
 
-<a href="file:///C:/Users/Joseph%20Anthony/Pictures/GROUP-4-FORMS-AND-MEET-PPT.pdf">
+<a href="Activity%204%20Outputs/GROUP-4-FORMS%20AND%20MEET%20PPT.pdf">
 📄 View Google Meet &amp; Forms PPT →
 </a>
 
