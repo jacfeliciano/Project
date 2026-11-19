@@ -1,5 +1,4 @@
 # Activity 4 – Google Meet and Google Forms
-Activity Description
 
 This activity explores the purpose, features, and practical applications of Google Meet and Google Forms as digital tools for communication, collaboration, and information management.
 
