@@ -1,4 +1,5 @@
 # Hi, I'm Joseph Anthony Feliciano! 👋
+![Joseph Anthony Feliciano](Profile.jpg)
 
 I'm a fourth-year Nursing student at Ateneo de Davao University. I enjoy exploring different interests, learning new skills, and improving myself both academically and personally.
 
