@@ -1,6 +1,10 @@
 # Activity 6 
 This activity involved conceptualizing and building a website prototype for "Labelled," a healthy meal-prep business centered on complete nutritional transparency. Using an AI web-building tool, I translated the company's objective into an interactive, nutrition-label-inspired platform featuring macro-calculated meals, dietary filters, a daily macro tracker, weekly meal plans, and a customer waitlist.
+
 What have I learned?
+
 Key Concepts and Skills Gained: I learned how to translate a business concept into a functional digital prototype through structured AI prompting, focusing on user-centered design, clear nutritional labeling, and interactive features like macro filtering and daily intake tracking.   
+
 Challenge Faced and Solution: A key challenge was ensuring that complex nutritional information (calories, protein, carbs, and fats) remained easy to read without overwhelming the user. I solved this by instructing the AI to model the layout after familiar food nutrition labels and organize the site into clear, scannable sections for menus, macro bars, and meal plans.   
+
 Future Application and Improvement: In the future, I can apply these rapid-prototyping skills to develop health-education tools or wellness platforms, and improve this specific project by replacing placeholder figures with verified nutritional data and integrating a real-time food-tracking barcode scanner. 
